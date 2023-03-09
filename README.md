@@ -1,5 +1,5 @@
 # PDF Invoice Generator
-This is a Python script that generates a PDF invoice using the ReportLab library. The invoice includes a header, footer, logo, payment information, and a section for listing the items on the invoice with their corresponding prices.
+This is a Python script that generates a PDF invoice using the ReportLab library in hard coding. The invoice includes a header, footer, logo, payment information, and a section for listing the items on the invoice with their corresponding prices.
 
 <img src="https://user-images.githubusercontent.com/73304837/223883872-5e7b04ca-0293-4706-a917-474d0c9e3f62.jpg" alt="Invoice-sample" width="516px" height="730px">
 
