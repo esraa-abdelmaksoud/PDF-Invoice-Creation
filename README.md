@@ -11,8 +11,8 @@ Installation of reportlab is required. Once you have Python and ReportLab instal
 python generate_invoice.py
 The PDF invoice will be saved in the same directory as the script.
 
-Customization
+## Customization
 You can customize the invoice by modifying the script. For example, you can change the logo or adjust the layout of the invoice. Also, it can be converted to RTL for Arabic langauge.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
