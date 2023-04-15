@@ -1,0 +1,31 @@
+<invoice>
+  <invoice-to>IntelliCare</invoice-to>
+  <address>30 N Gould St, Sheridan, Wyoming, United States</address>
+  <invoice-no>12345</invoice-no>
+  <email>info@intellicare-assoc.com</email>
+  <date>02/02/2023</date>
+  <items>
+    <item>
+      <sn>502</sn>
+      <description>Optician Visit</description>
+      <qty>1</qty>
+      <unit-amount>50.00</unit-amount>
+    </item>
+    <item>
+      <sn>223</sn>
+      <description>Dentist Visit</description>
+      <qty>1</qty>
+      <unit-amount>70.00</unit-amount>
+    </item>
+  </items>
+  <totals>
+    <grand-total>120.00</grand-total>
+    <tax>12.00</tax>
+    <total>132.00</total>
+  </totals>
+  <payment-info>
+    <account>123456</account>
+    <account-name>IntelliCare</account-name>
+    <bank-details>IntelliCare Details</bank-details>
+  </payment-info>
+</invoice>
