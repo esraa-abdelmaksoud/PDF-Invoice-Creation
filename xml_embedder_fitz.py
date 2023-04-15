@@ -15,7 +15,7 @@ def embed_xml(pdf_file_path, xml_file_path, output_file_path):
 
     # Embed the XML data as an annotation in the first page of the PDF
     page = pdf_doc[0]
-    pdf_doc.embfile_add("XML file",xml_data,"invoice.xml",)
+    pdf_doc.embfile_add("XML file",xml_data,"invoice.xml")
 
     # Save the PDF file with the embedded XML data
     pdf_doc.save(output_file_path)
